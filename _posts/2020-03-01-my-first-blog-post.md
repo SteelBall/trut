@@ -1,4 +1,4 @@
 ---
-title: "Brallan i MUNNNNNN"
+title: "SpindelMannen"
 date: 2020-03-01
 ---
